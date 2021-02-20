@@ -1,0 +1,26 @@
+<testsuites name="jest tests">
+  <testsuite name="RadioComponent" errors="0" failures="0" skipped="0" timestamp="2021-02-20T16:15:37" time="2.374" tests="3">
+    <testcase classname="RadioComponent radio renders without crashing" name="RadioComponent radio renders without crashing" time="0.02">
+    </testcase>
+    <testcase classname="RadioComponent check if radio state changes by name" name="RadioComponent check if radio state changes by name" time="0.036">
+    </testcase>
+    <testcase classname="RadioComponent check if radio state changes by age" name="RadioComponent check if radio state changes by age" time="0.016">
+    </testcase>
+  </testsuite>
+  <testsuite name="AppComponent" errors="0" failures="0" skipped="0" timestamp="2021-02-20T16:15:39" time="0.209" tests="4">
+    <testcase classname="AppComponent complete app renders without crashing" name="AppComponent complete app renders without crashing" time="0.008">
+    </testcase>
+    <testcase classname="AppComponent check if parameterState changes" name="AppComponent check if parameterState changes" time="0.007">
+    </testcase>
+    <testcase classname="AppComponent check date comparison" name="AppComponent check date comparison" time="0.011">
+    </testcase>
+    <testcase classname="AppComponent check name comparison" name="AppComponent check name comparison" time="0.008">
+    </testcase>
+  </testsuite>
+  <testsuite name="TableComponent" errors="0" failures="0" skipped="0" timestamp="2021-02-20T16:15:39" time="0.149" tests="2">
+    <testcase classname="TableComponent Table renders without crashing" name="TableComponent Table renders without crashing" time="0.004">
+    </testcase>
+    <testcase classname="TableComponent check number of rows rendered" name="TableComponent check number of rows rendered" time="0.006">
+    </testcase>
+  </testsuite>
+</testsuites>
